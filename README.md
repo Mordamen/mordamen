@@ -1,8 +1,8 @@
-<h1 align="center">mr Yehuda Sapir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a motivated full stack developer with a strong foundation in web development and a passion for creating robust and user-friendly applications. After gaining valuable knowledge and skills through my education at HackerU, I am eager to apply my expertise to real-world projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yehuda-sapir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehuda-sapir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
